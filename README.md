@@ -1,4 +1,4 @@
-<h3 align="center">Hello, World! I'm Mel David Mailem.</h3>
+<h3 align="center">Hello, World👊! I'm Mel David Mailem.</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=meruuuuooo&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
