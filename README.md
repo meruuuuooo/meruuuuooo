@@ -13,6 +13,9 @@
 ### Skills
 ![Java](https://img.shields.io/static/v1?style=for-the-badge&message=Java&color=bd9117&logo=openjdk&logoColor=FFFFFF&label=)
 
+### School
+[![image.png](https://i.postimg.cc/vH1bFSZW/image.png)](https://apply.tcc.edu.ph/)
+
 ### Contact me
 [![Chat with Me](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Uremmmm)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/855391289461964822)
