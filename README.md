@@ -7,13 +7,13 @@
   <sup>Photo by <a href="https://unsplash.com/photos/a-pink-and-purple-background-with-the-word-love-yoOrRjNa7qY?utm_content=creditShareLink&utm_medium=referral&utm_source=unsplash">Ruan Richard Rodrigues</a> on <a href="https://unsplash.com/photos/a-close-up-of-a-pink-and-blue-liquid-hNrd99q5peI?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a></sup>
 </p>
 
-### Hi, I am Meruuuuooo 👋
+### Hi, I am Mel David 👋
 #### Lazy to code! 🥲
 
 ### Skills
 ![Java](https://img.shields.io/static/v1?style=for-the-badge&message=Java&color=bd9117&logo=openjdk&logoColor=FFFFFF&label=)
 
-### School
+### Studied at
 [![image.png](https://i.postimg.cc/vH1bFSZW/image.png)](https://apply.tcc.edu.ph/)
 
 ### Contact me
