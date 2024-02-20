@@ -28,10 +28,6 @@
 
 <hr>
 
-### My Portfolio using CodeSpaces Project Template
-  * You can check out the live version of the website [here](https://agreeable-glacier-0c0ef730f.4.azurestaticapps.net/).
-  * Check repository codespaces-project-template-js
- [here](https://github.com/education/codespaces-project-template-js).
 
 
 
