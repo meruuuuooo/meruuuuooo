@@ -3,16 +3,6 @@
 
 <hr>
 
-<div>
-  
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Sixtyfour&size=16&pause=1000&color=F7F7F7&background=FFFFFF00&random=false&width=435&lines=Skills)](https://git.io/typing-svg)
-  <br>
-  ![Java](https://img.shields.io/static/v1?style=for-the-badge&message=Java&color=bd9117&logo=openjdk&logoColor=FFFFFF&label=)
-  
-</div>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sixtyfour&size=16&pause=1000&color=F7F7F7&background=FFFFFF00&random=false&width=435&lines=Studied+at)](https://git.io/typing-svg) <br>
-[![image.png](https://i.postimg.cc/vH1bFSZW/image.png)](https://apply.tcc.edu.ph/)
 
 
 <div>
