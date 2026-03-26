@@ -1,2 +1,1 @@
-# Hi there, I'm meruuuuooo 👋
-
+![Metrics](/github-metrics.svg)
