@@ -12,7 +12,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: meruuuuooo/metrics@master
+      - uses: lowlighter/metrics@main
         with:
           # Your GitHub token
           # The following scopes are required:
