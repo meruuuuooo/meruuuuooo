@@ -1,6 +1,6 @@
 [Scroll to bottom of the readme.md](#end-of-readme)
 
-# meruuuuooo - GitHub Profile
+# Meruuuuooo - GitHub Profile
 
 ![Metrics](/github-metrics.svg)
 
